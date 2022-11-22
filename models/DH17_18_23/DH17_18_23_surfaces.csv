@@ -1,0 +1,10 @@
+,surface,series,order_surfaces,isBasement,isFault,isActive,hasData,color,vertices,edges,sfai,id
+0,Quaternary,Default series,1,False,False,True,True,#015482,,,,1
+1,Rhyodacite,Default series,2,False,False,True,True,#9f0052,,,,2
+2,Dacite_altered,Default series,3,False,False,True,True,#ffbe00,,,,3
+3,Dacite,Default series,4,False,False,True,True,#728f02,,,,4
+4,Andesite,Default series,5,False,False,True,True,#443988,,,,5
+5,Rhyolite,Default series,6,False,False,True,True,#ff3f20,,,,6
+6,Qtz_Porphyryie,Default series,7,False,False,True,True,#5DA629,,,,7
+7,Qz-rhyolite,Default series,8,False,False,True,True,#4878d0,,,,8
+8,basement,Basement,1,True,False,True,False,#ee854a,,,,9
